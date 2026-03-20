@@ -1,0 +1,28 @@
+# Week 1 - DevOps & Docker Basics
+
+## What is DevOps?
+DevOps is a practice that combines Development and Operations to improve collaboration and automate workflows.
+
+## Virtualization
+- Partition physical server into multiple virtual machines
+- Uses Hypervisor
+- Advantages:
+  - Better resource utilization
+  - Cost saving
+  - Security
+
+## Drawbacks
+- Heavy resource usage
+- Slow boot time
+- Complex management
+
+## Containerization
+- Lightweight alternative to virtualization
+- Shares host OS
+- Fast startup
+- Efficient resource usage
+
+## Need of Containers
+- Microservices architecture
+- Portability
+- Scalability
