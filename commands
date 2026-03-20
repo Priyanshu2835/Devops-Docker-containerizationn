@@ -1,0 +1,10 @@
+# Week 1 - Docker Basic Commands
+
+docker pull ubuntu
+docker images
+docker run ubuntu
+docker run -it ubuntu /bin/bash
+docker stop <container_id>
+docker rm <container_id>
+docker rmi ubuntu
+docker system prune -a
